@@ -1,0 +1,55 @@
+The system is: CYGWIN - 3.1.2(0.340/5/3) - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is GNU, found in "/cygdrive/c/myfiles/MyClionProjects/kangaroo/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /usr/bin/c++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
+
+The CXX compiler identification is GNU, found in "/cygdrive/c/myfiles/MyClionProjects/kangaroo/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /cygdrive/c/myfiles/MyClionProjects/kangaroo/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/cygdrive/c/Strawberry/c/bin/gmake.exe cmTC_45256/fast && C:/Strawberry/c/bin/gmake -f CMakeFiles/cmTC_45256.dir/build.make CMakeFiles/cmTC_45256.dir/build
+gmake[1]: Entering directory 'C:/myfiles/MyClionProjects/kangaroo/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_45256.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_45256.dir/testCCompiler.c.o   -c /cygdrive/c/myfiles/MyClionProjects/kangaroo/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_45256.exe
+/cygdrive/c/Users/User/.CLion2019.3/system/cygwin_cmake/bin/cmake.exe -E cmake_link_script CMakeFiles/cmTC_45256.dir/link.txt --verbose=1
+/usr/bin/cc    -Wl,--enable-auto-import  CMakeFiles/cmTC_45256.dir/testCCompiler.c.o  -o cmTC_45256.exe -Wl,--out-implib,libcmTC_45256.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+gmake[1]: Leaving directory 'C:/myfiles/MyClionProjects/kangaroo/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /cygdrive/c/myfiles/MyClionProjects/kangaroo/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/cygdrive/c/Strawberry/c/bin/gmake.exe cmTC_a1336/fast && C:/Strawberry/c/bin/gmake -f CMakeFiles/cmTC_a1336.dir/build.make CMakeFiles/cmTC_a1336.dir/build
+gmake[1]: Entering directory 'C:/myfiles/MyClionProjects/kangaroo/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_a1336.dir/testCXXCompiler.cxx.o
+/usr/bin/c++.exe     -o CMakeFiles/cmTC_a1336.dir/testCXXCompiler.cxx.o -c /cygdrive/c/myfiles/MyClionProjects/kangaroo/cmake-build-debug/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_a1336.exe
+/cygdrive/c/Users/User/.CLion2019.3/system/cygwin_cmake/bin/cmake.exe -E cmake_link_script CMakeFiles/cmTC_a1336.dir/link.txt --verbose=1
+/usr/bin/c++.exe    -Wl,--enable-auto-import  CMakeFiles/cmTC_a1336.dir/testCXXCompiler.cxx.o  -o cmTC_a1336.exe -Wl,--out-implib,libcmTC_a1336.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+gmake[1]: Leaving directory 'C:/myfiles/MyClionProjects/kangaroo/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+

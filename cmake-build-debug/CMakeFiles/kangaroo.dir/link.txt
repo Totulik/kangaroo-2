@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/kangaroo.dir/main.cpp.o  -o kangaroo.exe -Wl,--out-implib,libkangaroo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

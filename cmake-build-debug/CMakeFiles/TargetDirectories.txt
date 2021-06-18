@@ -1,0 +1,3 @@
+/cygdrive/c/myfiles/MyClionProjects/kangaroo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/myfiles/MyClionProjects/kangaroo/cmake-build-debug/CMakeFiles/kangaroo.dir
+/cygdrive/c/myfiles/MyClionProjects/kangaroo/cmake-build-debug/CMakeFiles/edit_cache.dir
